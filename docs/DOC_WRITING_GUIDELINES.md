@@ -19,6 +19,7 @@ When deleting a link, redirects must be created in `docusaurus.config.js` to pre
 
 ### Code Snippets
 
+
 Code snippets can be included in the documentation using normal Markdown code blocks. For example:
 
 ```md
